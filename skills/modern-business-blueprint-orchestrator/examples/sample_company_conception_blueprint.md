@@ -64,11 +64,11 @@ $$\mathbf{TELEMETRY\ DATA} \longrightarrow \mathbf{ANOMALY\ SIGNAL} \longrightar
 ├─────────────────────────────────────────────────────────────┤
 │ LAYER 2: Continuous Entity Surveillance Fee                  │ ($1.80 per active monitored entity / mo)
 ├─────────────────────────────────────────────────────────────┤
-│ LAYER 1: Base Platform & Enterprise Commitment Fee          │ ($85,000 / yr contractual base)
+│ LAYER 1: Base Platform & Enterprise Commitment Fee          │ ($50,000 / yr contractual base)
 └─────────────────────────────────────────────────────────────┘
 ```
 
-#### Layer Breakdown for Mid-Tier Commercial Bank (25,000 Active Accounts, 180,000 Verdicts/yr):
+#### Layer Breakdown for Initial Entry Logo (1,150 Active Accounts, 55,000 Verdicts/yr):
 - **Base Platform Fee**: **$50,000 / year** (covers private multi-region tenancy, SOC 2 Type II, 99.9% availability SLA, core ledger connectors).
 - **Entity Surveillance Fee**: 1,150 active accounts $\times$ $1.80/month $\times$ 12 = **$24,840 / year** (~$25,000 / year) (continuous monitoring of high-risk corporate loan book).
 - **Decision Execution Fee**: 55,000 verdicts $\times$ $0.18 = **$9,900 / year** (~$10,000 / year) (initial transaction execution volume).

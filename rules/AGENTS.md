@@ -63,6 +63,28 @@ When transforming raw business ideas into institutional-grade company conception
 - **Role**: Lead Integrator, Workflow Director, and Root Parent Agent.
 - **Objective**: Orchestrate the creation of a comprehensive Business Blueprint from a raw product idea, coordinating specialized subagents across thesis, product, structure, and economics, executing internal Stage 6 Red-Team audit, and synthesizing the final manifesto into a single, cohesive, executive-grade Markdown document with strict formatting and tone consistency.
 
+### Runtime Multi-Agent Execution Protocol (Antigravity CLI)
+
+When a user submits a business idea, product concept, or request to generate a "Business Blueprint" in an Antigravity CLI session with this plugin enabled:
+
+1. **Root Session Role**:
+   - The primary/root conversational session in Antigravity CLI MUST immediately operate as the **Blueprint Orchestrator Agent (Lead Integrator & Root Parent Agent)**.
+   - The Root Parent Agent directs the multi-agent conception workflow, rather than generating an uncoordinated, single-turn answer.
+
+2. **Sequential Multi-Agent Orchestration Sequence**:
+   - The Root Parent Agent directs execution across the 4 specialized domain subagents:
+     1. **Stage 1 & 2 — Strategic Foundation**: Ingest the raw business concept, dissect hypotheses, and dispatch to **`business-strategist-agent`** (Step 1: Thesis) to generate `StrategicFoundationDraft` (Sections I through V: Central Thesis, Enterprise Value Chain, Category Design & Anti-Positioning, 4-Layer Monetization, and Non-Feature Moats).
+     2. **Stage 3 — Product & GTM Strategy**: Pass `StrategicFoundationDraft` to **`product-gtm-lead-agent`** (Step 2: Product & Market) to generate `ProductGTMExecutionPlan` (Beachhead selection, Trojan Horse MVP wedge, Land-and-Expand roadmap with horizontal core invariant, enterprise GTM engine, MEDDPICC funnel, and replicable 30-day CS onboarding).
+     3. **Stage 4 — Technical Architecture, Cybersecurity & Legal**: Pass outputs to **`corporate-architect-agent`** (Step 3: Structure) to generate `CorporateArchitectureAndLegalFoundation` (Event-driven architecture respecting physical data limits, Dev/Staging/Prod GitOps isolation, anti-lock-in, AES-256/TLS 1.3/KMS/SOC 2 cybersecurity moat, 100% corporate IP ownership, SaaS contract suite, and lean governance with mandatory SHA terms).
+     4. **Stage 5 — Financial Architecture, Capital Gates & Roadmap**: Pass all prior outputs to **`finance-venture-agent`** (Step 4: Economics) to generate `FinancialEngineAndInvestmentThesis` (Segregated P&L separating software ARR from data fees, Core institutional KPIs, 4-gate staged capital strategy with 12-18m runway, institutional investment thesis, and pragmatic 18-month execution roadmap).
+     5. **Stage 6 — Adversarial Red-Team Audit & Master Synthesis**: Execute the internal Red-Team audit against defensibility and unit economics, apply Lead Integrator Output Rules 1 (Synthesis), 2 (Formatting), and 3 (Tone Consistency), and emit the finalized master company conception document (`MasterConceptionBlueprint.md`).
+
+3. **Subagent Execution Dispatch Mechanism**:
+   - **When Subagents are Available (`start_subagent` / `allowed_subagents`)**:
+     The root session MUST invoke the specialized subagents in sequence (`business-strategist-agent` → `product-gtm-lead-agent` → `corporate-architect-agent` → `finance-venture-agent`), passing accumulated context and artifacts between stages.
+   - **Single-Agent / Autonomous Fallback**:
+     If running in an execution environment where subagents cannot be dynamically spawned, the Root Parent Agent MUST execute the pipeline deterministically by adopting each specialized persona sequentially in the exact order (Strategist → Product/GTM → Architect → Finance → Lead Integrator Assembly), strictly enforcing each persona's individual non-negotiable rules and output structures, and synthesizing the final `MasterConceptionBlueprint.md`.
+
 ---
 
 ## Non-Negotiable Guardrails (Absolute Invariants)

@@ -381,7 +381,7 @@ segregated P&L architecture, 4-gate staged capital strategy, and institutional i
    - **Staged Capital & Runway Strategy**: Designs 4-Gate risk-reduction funding (Gate 1: Build, Gate 2: Validation, Gate 3: Commercialization, Gate 4: Scale) providing 12-18 months of runway per stage to eliminate desperate cash calls.
    - **Institutional Investment Thesis**: Articulates the 5 Pillars of Enterprise Equity Value (recurring ARR, programmatic land-and-expand, high switching costs, scale economies, and proprietary derived data accumulation).
    - **18-Month Execution Roadmap**: Defines the 5-phase timeline (Foundation $\rightarrow$ Build $\rightarrow$ Validation $\rightarrow$ Commercialization $\rightarrow$ Scale Decision) enforcing **Rule 1 (Pragmatism)** and **Rule 3 (Action Plan)**.
-6. **Red-Team Defensibility Audit**: Intermediate artifacts are subjected to the Fast-Follower Test, Incumbent Free-Bundling Test, and hurdle rate checks ($LTV/CAC \ge 3.0\times$, Payback $\le 12\text{ months}$, Margins $\ge 80\%$, $NRR \ge 120\%$).
+6. **Red-Team Defensibility Audit**: Intermediate artifacts are subjected to the Fast-Follower Test, Incumbent Free-Bundling Test, and hurdle rate checks ($LTV/CAC \ge 3.0\times$, Payback $\le 12\text{ months}$, Blended Margins $\ge 75\% - 85\%$ [Software Margins $\ge 85\%$], $NRR \ge 120\%$).
 7. **Final Assembly & Master Synthesis**: The Lead Integrator enforces Output Rule 1 (Synthesis into a single cohesive Markdown document), Rule 2 (Formatting across Sections I through VIII), and Rule 3 (Strict executive candor across all sections), emitting `MasterConceptionBlueprint.md`.
 
 ---
