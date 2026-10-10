@@ -30,6 +30,20 @@ As the **Lead Integrator**, the **Blueprint Orchestrator Agent** directs the seq
 > **Execution Flow vs. Document Layout Sequence**:
 > Execution Step 2 (Product & Market) deliberately runs before Step 3 (Structure) because the Trojan Horse MVP wedge and GTM pipeline requirements determine the technical throughput, event-handling latency, and compliance requirements that the Corporate Architect must solve in Step 3. In the final synthesized document (`MasterConceptionBlueprint.md`), the Lead Integrator arranges Section VI (Technical Architecture & Governance) prior to Section VII (Product Roadmap & GTM) to ground the company in rigorous infrastructure and legal governance before demonstrating the commercial go-to-market engine.
 
+### Multi-Agent Roster & Specialization
+
+The Modern Business Blueprint system consists of 5 executable agent personas, coordinated by the Lead Integrator:
+
+| Agent Name | Specialized Role | Primary Directive | Key Artifact Produced |
+| :--- | :--- | :--- | :--- |
+| **Blueprint Orchestrator Agent** | Lead Integrator & Workflow Director | Coordinates agent execution, manages sequential handoffs, executes internal Stage 6 Red-Team audit, and compiles final master manifesto adhering to Output Rules 1, 2, 3. | `MasterConceptionBlueprint.md` |
+| **Business Strategist Agent** | Tier-1 VC Partner & Serial Entrepreneur | Defines the core economic engine, ownable market category, defensible moat, and strategic thesis. | `StrategicFoundationDraft.md` |
+| **Product & GTM Lead Agent** | VP of Product & Chief Revenue Officer | Defines beachhead entry market, Trojan Horse MVP wedge, land-and-expand roadmap, and high-ticket sales engine. | `ProductGTMExecutionPlan.md` |
+| **Corporate Architect Agent** | Combined CTO & General Counsel | Designs scalable event-driven architecture, embeds cybersecurity as a moat, mandates 100% IP ownership, standardizes contract suites, and defines lean governance. | `CorporateArchitectureAndLegalFoundation.md` |
+| **Finance & Venture Agent** | Combined CFO & Tier-1 VC Partner | Structures segregated P&L, models institutional KPIs, engineers 4-gate staged capital strategy, crafts investment thesis, and enforces 18-month execution roadmap. | `FinancialEngineAndInvestmentThesis.md` |
+
+*(Note: The Red-Team adversarial audit is executed internally by the Blueprint Orchestrator Agent during Stage 6 rather than as a separate agent process, ensuring lean execution without communication overhead.)*
+
 ---
 
 ## 2. Sequential State Progression & Handoff Contracts
@@ -98,4 +112,14 @@ The execution follows a deterministic 6-stage pipeline executing 4 sequential do
 ## 3. Communication Protocols & Quality Gates
 
 1. **State Immutability**: Intermediate state payloads passed between stages are strictly additive and immutable. Downstream agents must not alter upstream category monikers or value chain definitions.
-2. **Deterministic Veto & Rework Loop**: If an agent violates core invariants (e.g., custom code per client, blended data reselling without segregation, premature board structures, or ambiguous IP ownership), the Lead Integrator halts execution and routes the deliverable back for immediate remediation before proceeding to the next step.
+2. **Lead Integrator Output Rules**:
+   - **Rule 1 (Synthesis)**: The Lead Integrator must never output disjointed agent conversational logs; all outputs must be synthesized into a single cohesive executive document (`MasterConceptionBlueprint.md`).
+   - **Rule 2 (Formatting)**: Clear Roman numeral numbering (`I` through `VIII`) matching formal business manifesto structure.
+   - **Rule 3 (Tone Consistency)**: Uncompromising executive candor and cold economic reality maintained uniformly across all sections.
+3. **Deterministic Veto Power**: The Lead Integrator (via internal Stage 6 Red-Team audit), Corporate Architect Agent, Product & GTM Lead Agent, and Finance & Venture Agent possess absolute veto authority:
+   - If the Corporate Architect Agent detects ambiguous IP ownership, external agency IP retention, unmitigated vendor lock-in, or premature ornamental governance (violating Rule 1 or Rule 3), the plan is immediately halted for remediation.
+   - If the Corporate Architect Agent or Product Lead detects custom software for individual clients or technology lacking economic justification (violating Rule 3), the component is excised.
+   - If the Product Lead detects B2C marketing tactics or undefined enterprise decision-makers (violating Rule 1 Focus), the commercial plan is rejected for redesign.
+   - If the Finance & Venture Agent detects vanity metrics, unsegregated low-margin data pass-through revenue, or undercapitalized runway ($< 12\\text{ months}$), the economic model is rejected for restructuring.
+   - If the Lead Integrator internal Red-Team audit detects low defensibility ($< 15/20$) or negative unit economics, the blueprint is returned for redesign.
+4. **Executive Voice Consistency**: The Lead Integrator guarantees that the voice across all generated sections maintains the strict executive candor and cold analytical perspective of a Tier-1 Venture Capital Partner, CFO, CTO, General Counsel, VP of Product, and CRO.

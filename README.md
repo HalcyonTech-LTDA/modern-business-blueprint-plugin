@@ -218,8 +218,6 @@ modern-business-blueprint-plugin/
 ├── .gitattributes                                      # Line-ending normalization (eol=lf)
 ├── assets/
 │   └── logo.svg                                        # Official vector logo (256x256)
-├── docs/
-│   └── blueprint_multi_agent_system.md                 # Multi-agent architecture specification
 ├── rules/
 │   └── AGENTS.md                                       # Active guardrails & agent router
 ├── agents/
