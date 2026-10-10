@@ -1,0 +1,44 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern Business Blueprint Plugin Logo (256x256, ~10% margin, theme-adaptive high contrast) -->
+  <defs>
+    <linearGradient id="blueprintGrad" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A73E8"/>
+      <stop offset="100%" stop-color="#0D47A1"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="60" y1="60" x2="196" y2="196" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F9AB00"/>
+      <stop offset="50%" stop-color="#FBBC04"/>
+      <stop offset="100%" stop-color="#EA8600"/>
+    </linearGradient>
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Blueprint Architectural Grid Frame (Rounded Shield) -->
+  <rect x="26" y="26" width="204" height="204" rx="36" fill="url(#blueprintGrad)" stroke="#4285F4" stroke-width="2.5" stroke-dasharray="8 6"/>
+
+  <!-- Architectural Coordinate Grid Lines -->
+  <path d="M26 94H230M26 162H230M94 26V230M162 26V230" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <!-- Fortress / Blueprint Foundation Node Structure -->
+  <!-- Outer Value Diamond -->
+  <polygon points="128,52 204,128 128,204 52,128" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.85"/>
+
+  <!-- Central Strategic Core (Venture Capital Fortress) -->
+  <polygon points="128,78 178,128 128,178 78,128" fill="url(#goldGrad)" filter="url(#subtleGlow)"/>
+
+  <!-- Value Chain Pipeline Arrows (DATA -> SIGNAL -> CONTEXT -> DECISION) -->
+  <!-- North node (Decision) -->
+  <circle cx="128" cy="52" r="7" fill="#FFFFFF" stroke="#0D47A1" stroke-width="2.5"/>
+  <!-- East node (Context) -->
+  <circle cx="204" cy="128" r="7" fill="#FFFFFF" stroke="#0D47A1" stroke-width="2.5"/>
+  <!-- South node (Signal) -->
+  <circle cx="128" cy="204" r="7" fill="#FFFFFF" stroke="#0D47A1" stroke-width="2.5"/>
+  <!-- West node (Data) -->
+  <circle cx="52" cy="128" r="7" fill="#FFFFFF" stroke="#0D47A1" stroke-width="2.5"/>
+
+  <!-- Inner Strategic Keystone -->
+  <polygon points="128,104 152,128 128,152 104,128" fill="#FFFFFF"/>
+</svg>

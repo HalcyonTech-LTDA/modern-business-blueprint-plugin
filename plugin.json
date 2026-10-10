@@ -1,5 +1,21 @@
 {
   "name": "modern-business-blueprint-plugin",
-  "description": "Enterprise-grade multi-agent business blueprint orchestration plugin to generate comprehensive company conception documents from raw ideas, featuring the specialized Business Strategist Agent, Category Design & Positioning, Monetization & Economic Architecture, and Moat & Defensibility Strategy.",
-  "version": "1.0.0"
+  "displayName": "Modern Business Blueprint",
+  "description": "Enterprise-grade multi-agent business blueprint orchestration plugin to generate comprehensive company conception documents from raw ideas, led by the Blueprint Orchestrator Agent (Lead Integrator) and featuring the specialized Business Strategist Agent (Tier-1 VC Partner), Product & GTM Lead Agent (VP of Product & CRO), Corporate Architect Agent (Combined CTO & General Counsel), and Finance & Venture Agent (Combined CFO & Tier-1 VC Partner), covering Category Design, 4-Layer Monetization, Defensibility Moats, Beachhead & MVP Strategy, Land-and-Expand Roadmapping, Enterprise GTM Engines, Event-Driven Technical Architecture & Security Paradigms, 100% IP Asset Protection, Essential Early-Stage Contracts, Lean Corporate Governance, Unit Economics & P&L Architecture, 4-Gate Staged Capital Strategies, Institutional Investment Theses, and Pragmatic 18-Month Execution Roadmaps.",
+  "version": "1.2.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Transform my raw business idea into an institutional company conception blueprint",
+    "Orchestrate the end-to-end multi-agent business blueprint workflow as Lead Integrator from a raw concept",
+    "Define category positioning and anti-positioning for a continuous decision engine",
+    "Design a 4-layer monetization model and unit economics for enterprise decision infrastructure",
+    "Define a beachhead market, Trojan Horse MVP wedge, and enterprise GTM plan for B2B infrastructure",
+    "Design an enterprise land-and-expand roadmap with a horizontal core engine to achieve >120% NRR",
+    "Design a scalable event-driven architecture and cybersecurity moat with SOC 2 readiness",
+    "Architect 100% IP ownership and essential early-stage enterprise contracts (SaaS MSA, DPA, SLA, NDA)",
+    "Establish lean corporate governance and an ironclad Shareholders' Agreement with 4-year vesting",
+    "Structure an enterprise P&L strictly segregating software revenue from third-party data costs",
+    "Design a 4-gate risk-reduction funding strategy with 12-18 months runway per stage",
+    "Craft an institutional investment thesis highlighting recurring revenue, high switching costs, and derived data"
+  ]
 }

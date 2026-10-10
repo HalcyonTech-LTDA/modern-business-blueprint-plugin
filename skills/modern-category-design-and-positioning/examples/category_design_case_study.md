@@ -30,7 +30,7 @@ This case study demonstrates the transformation of a raw, generic business idea 
 
 ## 3. The Institutional Conception Artifact
 
-### # I. A TESE CENTRAL
+### I. THE CENTRAL THESIS (A TESE CENTRAL)
 Enterprise financial institutions are haemorrhaging billions not because their initial onboarding checks failed, but because corporate entity risk is inherently dynamic while compliance architecture remains fundamentally static. 
 
 The legacy compliance paradigm relies on point-in-time snapshot verifications conducted during day zero onboarding, followed by passive annual reviews. In reality, counterparty fraud, credit degradation, beneficial ownership changes, and sanctions violations occur between these artificial checkpoints. The modern enterprise operates in an environment of continuous transactional velocity; relying on static onboarding snapshots is the operational equivalent of locking the front door while leaving the structural foundation unmonitored. 
@@ -39,7 +39,7 @@ The fundamental failure of existing "KYC vendors" is architectural: they built d
 
 ---
 
-### # II. A EMPRESA
+### II. THE ENTERPRISE (A EMPRESA)
 **Aether Decision Technologies** is the Continuous Decision Intelligence Infrastructure providing sovereign risk orchestration for global financial enterprises.
 
 #### Value Chain Flow:
