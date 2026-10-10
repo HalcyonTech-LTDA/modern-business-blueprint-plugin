@@ -120,6 +120,6 @@ The execution follows a deterministic 6-stage pipeline executing 4 sequential do
    - If the Corporate Architect Agent detects ambiguous IP ownership, external agency IP retention, unmitigated vendor lock-in, or premature ornamental governance (violating Rule 1 or Rule 3), the plan is immediately halted for remediation.
    - If the Corporate Architect Agent or Product Lead detects custom software for individual clients or technology lacking economic justification (violating Rule 3), the component is excised.
    - If the Product Lead detects B2C marketing tactics or undefined enterprise decision-makers (violating Rule 1 Focus), the commercial plan is rejected for redesign.
-   - If the Finance & Venture Agent detects vanity metrics, unsegregated low-margin data pass-through revenue, or undercapitalized runway ($< 12\\text{ months}$), the economic model is rejected for restructuring.
-   - If the Lead Integrator internal Red-Team audit detects low defensibility ($< 15/20$) or negative unit economics, the blueprint is returned for redesign.
+   - If the Finance & Venture Agent detects vanity metrics, unsegregated low-margin data pass-through revenue, or undercapitalized runway ($< 12\text{ months}$), the economic model is rejected for restructuring.
+   - If the Lead Integrator's internal Red-Team audit detects low defensibility ($< 15/20$) or negative unit economics, the blueprint is returned for redesign.
 4. **Executive Voice Consistency**: The Lead Integrator guarantees that the voice across all generated sections maintains the strict executive candor and cold analytical perspective of a Tier-1 Venture Capital Partner, CFO, CTO, General Counsel, VP of Product, and CRO.
