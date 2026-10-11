@@ -1,8 +1,8 @@
 {
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "modern-business-blueprint-plugin",
   "displayName": "Modern Business Blueprint",
   "description": "Enterprise-grade multi-agent business blueprint orchestration plugin to generate comprehensive company conception documents from raw ideas, led by the Blueprint Orchestrator Agent (Lead Integrator) and featuring the specialized Business Strategist Agent (Tier-1 VC Partner), Product & GTM Lead Agent (VP of Product & CRO), Corporate Architect Agent (Combined CTO & General Counsel), and Finance & Venture Agent (Combined CFO & Tier-1 VC Partner), covering Category Design, 4-Layer Monetization, Defensibility Moats, Beachhead & MVP Strategy, Land-and-Expand Roadmapping, Enterprise GTM Engines, Event-Driven Technical Architecture & Security Paradigms, 100% IP Asset Protection, Essential Early-Stage Contracts, Lean Corporate Governance, Unit Economics & P&L Architecture, 4-Gate Staged Capital Strategies, Institutional Investment Theses, and Pragmatic 18-Month Execution Roadmaps.",
-  "version": "1.2.0",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Transform my raw business idea into an institutional company conception blueprint",
