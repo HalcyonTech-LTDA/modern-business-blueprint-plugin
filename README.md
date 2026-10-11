@@ -219,7 +219,7 @@ modern-business-blueprint-plugin/
 ├── assets/
 │   └── logo.svg                                        # Official vector logo (256x256)
 ├── rules/
-│   └── AGENTS.md                                       # Active guardrails & agent router
+│   └── modern-business-blueprint-standards.md                                       # Active guardrails & agent router
 ├── agents/
 │   ├── business_strategist_agent.md                    # Business Strategist Agent (VC Partner persona)
 │   ├── corporate_architect_agent.md                    # Corporate Architect Agent (CTO & General Counsel)
