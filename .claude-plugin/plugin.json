@@ -1,0 +1,15 @@
+{
+  "name": "modern-business-blueprint-plugin",
+  "displayName": "Modern Business Blueprint",
+  "description": "Enterprise-grade multi-agent business blueprint orchestration plugin to generate comprehensive company conception documents from raw ideas, led by the Blueprint Orchestrator Agent (Lead Integrator) and featuring the specialized Business Strategist Agent (Tier-1 VC Partner), Product & GTM Lead Agent (VP of Product & CRO), Corporate Architect Agent (Combined CTO & General Counsel), and Finance & Venture Agent (Combined CFO & Tier-1 VC Partner), covering Category Design, 4-Layer Monetization, Defensibility Moats, Beachhead & MVP Strategy, Land-and-Expand Roadmapping, Enterprise GTM Engines, Event-Driven Technical Architecture & Security Paradigms, 100% IP Asset Protection, Essential Early-Stage Contracts, Lean Corporate Governance, Unit Economics & P&L Architecture, 4-Gate Staged Capital Strategies, Institutional Investment Theses, and Pragmatic 18-Month Execution Roadmaps.",
+  "author": {
+    "name": "Halcyon Tech",
+    "url": "https://github.com/HalcyonTech-LTDA"
+  },
+  "homepage": "https://github.com/HalcyonTech-LTDA/modern-business-blueprint-plugin",
+  "repository": "https://github.com/HalcyonTech-LTDA/modern-business-blueprint-plugin",
+  "license": "MIT",
+  "skills": [
+    "./claude/skills/"
+  ]
+}
