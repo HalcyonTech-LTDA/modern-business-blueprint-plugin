@@ -15,12 +15,10 @@ All generated conception documents MUST follow this exact Markdown header hierar
 *Executive Conception Blueprint & Economic Architecture*
 
 ## I. THE CENTRAL THESIS
-*(Backwards-compatible alias: `## I. A TESE CENTRAL`)*
 [The contemporary business problem, macroeconomic/regulatory inflection, and structural incumbent failure]
 
 ## II. THE ENTERPRISE
-*(Backwards-compatible alias: `## II. A EMPRESA`)*
-[The proprietary solution and exact value chain flow: DATA -> SIGNAL -> CONTEXT -> DECISION]
+[The proprietary solution and exact value chain flow: DATA -> SIGNAL -> CONTEXT -> DECISION -> ACTION -> EVIDENCE -> LEARNING -> IMPROVEMENT -> LOOP]
 
 ## III. CATEGORY DESIGN & ANTI-POSITIONING
 [The rejection of generic labels, definition of the ownable category, and the IS vs IS NOT Boundary Matrix]
