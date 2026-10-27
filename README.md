@@ -1,4 +1,32 @@
-# Modern Business Blueprint Plugin
+# [ARQUIVADO / DEPRECATED] Modern Business Blueprint Plugin
+
+> [!WARNING]
+> **REPOSITÓRIO ARQUIVADO / REPOSITORY ARCHIVED**
+> 
+> Este repositório foi **descontinuado e arquivado** em favor do novo **[Modern 30BB Business Blueprint (`modern-30bb-plugin`)](https://github.com/HalcyonTech-LTDA/modern-30bb-plugin)**.
+> 
+> Toda a evolução metodológica — incluindo a arquitetura canônica de **30 Seções Mestras (I a XXX)** distribuídas em **8 Pilares Estratégicos**, subagentes especializados, templates padronizados e scripts de validação automatizada — está ativa e mantida no novo repositório:
+> 
+> 👉 **Repositório Oficial:** **[https://github.com/HalcyonTech-LTDA/modern-30bb-plugin](https://github.com/HalcyonTech-LTDA/modern-30bb-plugin)**
+> 
+> ### Guia de Migração / Migration Guide
+> 
+> **Antigravity CLI:**
+> ```bash
+> # Desinstalar versão legada:
+> agy plugin uninstall modern-business-blueprint-plugin
+> 
+> # Instalar o novo plugin 30BB:
+> agy plugin install https://github.com/HalcyonTech-LTDA/modern-30bb-plugin
+> ```
+> 
+> **Claude Code:**
+> ```text
+> /plugin marketplace add HalcyonTech-LTDA/halcyon-plugins
+> /plugin install modern-30bb-plugin@halcyon-plugins
+> ```
+
+---
 
 An Antigravity plugin providing multi-agent orchestration to transform raw, unrefined business ideas into comprehensive, institutional-grade company conception documents. Led by the **Blueprint Orchestrator Agent** (Lead Integrator) and powered by the specialized **Business Strategist Agent** (Tier-1 Venture Capital Partner & Serial Entrepreneur), **Product & GTM Lead Agent** (VP of Product & Chief Revenue Officer), **Corporate Architect Agent** (Combined CTO & General Counsel), and **Finance & Venture Agent** (Combined CFO & Tier-1 Venture Capital Partner), engineered with strict economic rigor, ownable category design, multi-layered monetization architectures, non-feature defensibility moats, event-driven technical architecture, cybersecurity moats, 100% IP ownership, essential early-stage contracts, lean corporate governance, Trojan Horse beachhead wedges, land-and-expand roadmaps, high-ticket enterprise Go-To-Market engines, P&L segregation of software from data costs, 4-gate staged capital strategies (12-18 months runway per stage), institutional investment theses, and pragmatic 18-month execution roadmaps.
 
